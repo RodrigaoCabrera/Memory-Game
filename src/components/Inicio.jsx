@@ -72,7 +72,7 @@ function App({ winer }) {
   }
 
   return (
-    <div className="flex flex-column flex-wrap h-100 bg-red-700 font-mono">
+    <div className="flex flex-column flex-wrap h-100 font-mono">
       <Header 
         intentos={intentos}
         reset={reset}
